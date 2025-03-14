@@ -1,0 +1,12 @@
+      6  ! number of records (species) in the file
+! data generated using SIMPOL SAR
+! 1st line gives the T used to estimate vapor
+! pressure (1st) and evaporation heat (2nd)
+TREF 298.0
+GFURON    2.172E-02    39.2
+GMALAHY   8.049E-04    42.6
+GCMPHEN   2.779E-03    52.4
+GCAT001   2.106E-08    75.5
+GCAT003   7.337E-12   114.0
+GCAT002   3.969E-13   113.8
+END

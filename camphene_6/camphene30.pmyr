@@ -1,0 +1,12 @@
+      6  ! number of records (species) in the file
+! data generated using MYRDAL SAR
+! 1st line gives the T used to estimate vapor
+! pressure (1st) and evaporation heat (2nd)
+TREF 298.0
+GFURON    1.383E-02    44.4
+GMALAHY   5.938E-04    56.4
+GCMPHEN   2.701E-03    50.7
+GCAT001   9.649E-10   104.3
+GCAT003   6.399E-14   136.6
+GCAT002   1.324E-17   159.3
+END

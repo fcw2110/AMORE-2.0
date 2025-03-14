@@ -1,0 +1,87 @@
+      85  ! number of records in the dictionary
+H2       H2                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+H2O      H2O                                                                                                                                            0.0  0  0  0  0  0  0  0  0  0
+YNOP     YNOP                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+YNOC     YNOC                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+YNO3P    YNO3P                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+YNO3C    YNO3C                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+YHO2P    YHO2P                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+YHO2C    YHO2C                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+YO3P     YO3P                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+YO3C     YO3C                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+YNO2P    YNO2P                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+YNO2C    YNO2C                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+YHOP     YHOP                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+YHOC     YHOC                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+H2O2     H2O2                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+HNO2     HNO2                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+HNO3     HNO3                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+HNO4     HNO4                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+HO       HO                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+HO2      HO2                                                                                                                                            0.0  0  0  0  0  0  0  0  0  0
+N2O5     N2O5                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+NO       NO                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+NO2      NO2                                                                                                                                            0.0  0  0  0  0  0  0  0  0  0
+NO3      NO3                                                                                                                                            0.0  0  0  0  0  0  0  0  0  0
+O3P      O                                                                                                                                              0.0  0  0  0  0  0  0  0  0  0
+O1D      O*                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+O2       O2                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+O3       O3                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+SO2      SO2                                                                                                                                            0.0  0  0  0  0  0  0  0  0  0
+MOD      MOD                                                                                                                                            0.0  0  0  0  0  0  0  0  0  0
+MODO2    MODO2                                                                                                                                          0.0  0  0  0  0  0  0  0  0  0
+MODOOH   MODOOH                                                                                                                                         0.0  0  0  0  0  0  0  0  0  0
+XH2O     XH2O                                                                                                                      D                    0.0  0  0  0  0  0  0  0  0  0
+XH3O     XH3(O.)                                                                                                                   1.                   0.0  0  0  0  0  0  0  0  0  0
+XH3OH    XH3(OH)                                                                                                                   O                    0.0  0  0  0  0  0  0  0  0  0
+X01001   XH3(ONO2)                                                                                                                 N                    0.0  0  0  0  0  0  0  0  0  0
+XH3O2    XH3(OO.)                                                                                                                  2.                   0.0  0  0  0  0  0  0  0  0  0
+XH3OOH   XH3(OOH)                                                                                                                  H                    0.0  0  0  0  0  0  0  0  0  0
+XH4      XH4                                                                                                                       C                    0.0  0  0  0  0  0  0  0  0  0
+YH2O     YH2O                                                                                                                                           0.0  0  0  0  0  0  0  0  0  0
+YO       YO                                                                                                                                             0.0  0  0  0  0  0  0  0  0  0
+FURON    -O1-COCdH=CdHC1H2                                                                                                         TUKE            4   84.1  0  4  4  0  2  0  0  0  0
+MALAHY   -O1-COCdH=CdHC1O                                                                                                          TUKKE           4   98.1  0  4  2  0  3  0  0  0  0
+1T0001   C12HCH2CH2CH(C2H2)C(O.)(CH2(OH))C1(CH3)CH3                                                                                1.TTO           0  169.3  1 10 17  0  2  0  0  0  0
+2T0001   C12HCH2CH2CH(C2H2)C(OO.)(CH2(OH))C1(CH3)CH3                                                                               2.TTO           0  185.3  1 10 17  0  3  0  0  0  0
+2T0002   C12HCH2CH2CH(C2H2)C(OO.)(CH2(ONO2))C1(CH3)CH3                                                                             2.TTN           0  230.3  1 10 16  1  5  0  0  0  0
+CMPHEN   C12HCH2CH2CH(C2H2)Cd(=CdH2)C1(CH3)CH3                                                                                     TTU             0  136.3  0 10 16  0  0  0  0  0  0
+CAT008   C1H2CH2CH(ONO2)CH2C1HCOCH3                                                                                                TNK             2  173.2  0  7 11  1  4  0  0  0  0
+2T7000   C1H2CH2CH(OO.)CH2C1HCOCH2(OH)                                                                                             2.TKO           0  159.2  1  7 11  0  4  0  0  0  0
+CAT015   CH2(OH)C(OOH)(CO(OONO2))CO-O-CHO                                                                                          PHDKOE          5  255.1  0  5  5  1 11  0  0  0  0
+3K2000   CH2(OH)CO(OO.)                                                                                                            3.KO            1   91.0  1  2  3  0  4  0  0  0  0
+CAT005   CH2(OH)COC1(ONO2)COCH(CO(OONO2))CH(ONO2)C1H(OH)                                                                           TPNNKKOO        6  385.2  0  8  7  3 15  0  0  0  0
+3N2000   CH2(ONO2)CO(OO.)                                                                                                          3.NK            1  136.1  1  2  2  1  6  0  0  0  0
+CAT013   CH2(OOH)COC(OOH)(CO(OOH))COCH2(OH)                                                                                        GHHKKO          5  240.1  0  6  8  0 10  0  0  0  0
+CH2O     CH2O                                                                                                                      D              -0   30.0  0  1  2  0  1  0  0  0  0
+CH3O     CH3(O.)                                                                                                                   1.             -0   31.0  1  1  3  0  1  0  0  0  0
+CH3OH    CH3(OH)                                                                                                                   O              -0   32.0  0  1  4  0  1  0  0  0  0
+N01001   CH3(ONO2)                                                                                                                 N              -0   77.0  0  1  3  1  3  0  0  0  0
+CH3O2    CH3(OO.)                                                                                                                  2.             -0   47.0  1  1  3  0  2  0  0  0  0
+CH3OOH   CH3(OOH)                                                                                                                  H              -0   48.0  0  1  4  0  2  0  0  0  0
+N01002   CH3(OONO2)                                                                                                                N              -0   93.0  0  1  3  1  4  0  0  0  0
+CAT003   CH3C(CO(OONO2))(CHO)COCH(ONO2)CHO                                                                                         PNDDK           6  294.1  0  7  6  2 11  0  0  0  0
+2T0003   CH3C(OO.)(CH3)C1HCH2CH2CH(C1H2)COCH2(OH)                                                                                  2.TKO           0  201.3  1 10 17  0  4  0  0  0  0
+2T0004   CH3C(OO.)(CH3)C1HCH2CH2CH(C1H2)COCH2(ONO2)                                                                                2.TNK           0  246.3  1 10 16  1  6  0  0  0  0
+CAT007   CH3C(OOH)(CH3)CH(OOH)CH2CH2CH(CHO)COCO(OONO2)                                                                             PHHDK           5  325.3  0 10 15  1 11  0  0  0  0
+CAT002   CH3C1(CH3)CO-O-COCH2CH2C1HCH2(OH)                                                                                         TKKOE           2  186.2  0  9 14  0  4  0  0  0  0
+3K2001   CH3CO(OO.)                                                                                                                3.K             1   75.0  1  2  3  0  3  0  0  0  0
+CAT001   CH3CO-O-COC(OH)(CO(OH))CH2CO(OH)                                                                                          AAKKOE          5  220.1  0  7  8  0  8  0  0  0  0
+CAT014   CH3COC(ONO2)(CH2(OH))CH2C(OOH)(CO(OH))CHO                                                                                 AHNDKO          4  281.2  0  8 11  1 10  0  0  0  0
+CAT011   CH3COCH(CO(OOH))CH2CH(OOH)CHO                                                                                             GHDK            5  206.2  0  7 10  0  7  0  0  0  0
+2K3000   CH3COCH2(OO.)                                                                                                             2.K             1   89.1  1  3  5  0  3  0  0  0  0
+K03000   CH3COCH3                                                                                                                  K               1   58.1  0  3  6  0  1  0  0  0  0
+CH4      CH4                                                                                                                       C              -0   16.1  0  1  4  0  0  0  0  0  0
+HCOOH    CHO(OH)                                                                                                                   A              -0   46.0  0  1  2  0  2  0  0  0  0
+HCOO2    CHO(OO.)                                                                                                                  3.D            -0   61.0  1  1  1  0  3  0  0  0  0
+HCOO2H   CHO(OOH)                                                                                                                  G              -0   62.0  0  1  2  0  3  0  0  0  0
+P01001   CHO(OONO2)                                                                                                                P              -0  107.0  0  1  1  1  5  0  0  0  0
+3D2000   CHOCO(OO.)                                                                                                                3.DK            1   89.0  1  2  1  0  4  0  0  0  0
+CO       CO                                                                                                                        -              -0   28.0  0  1  0  0  1  0  0  0  0
+CAT006   CO(OH)CH(ONO2)CdH=CdHCHO                                                                                                  ANUD            5  175.1  0  5  5  1  6  0  0  0  0
+CAT012   CO(OOH)CH(CHO)C(CH3)(CHO)CO-O-CHO                                                                                         GDDDKE          4  232.2  0  8  8  0  8  0  0  0  0
+CAT004   CO(OOH)CH2C(OOH)(CO(OONO2))C(CH3)(CH2(OOH))CO(OONO2)                                                                      PPGHH           6  406.2  0  8 10  2 17  0  0  0  0
+CAT010   CO(OOH)CH2COCH(CO(OONO2))C(CH3)(CH3)CO(OONO2)                                                                             PPGK            5  370.2  0  9 10  2 14  0  0  0  0
+CAT009   CO(OONO2)CH2C(ONO2)(CO(OOH))COCO(OONO2)                                                                                   PPGNK           6  389.1  0  6  3  3 17  0  0  0  0
+CO2      CO2                                                                                                                       -              -0   44.0  0  1  0  0  2  0  0  0  0
+END
