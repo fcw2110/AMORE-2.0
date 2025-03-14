@@ -1,0 +1,10 @@
+      6  ! number of records (species) in the file
+! Diffusion volume computed using the Fuller et al. approach,
+! as described in Poling et al. book (5th edition, 2004)
+GFURON      66.76
+GMALAHY     68.25
+GCMPHEN    195.96
+GCAT001    169.61
+GCAT003    222.87
+GCAT002    207.56
+END

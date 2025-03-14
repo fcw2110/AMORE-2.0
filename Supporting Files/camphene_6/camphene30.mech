@@ -1,0 +1,105 @@
+END SPECIES
+!----------------
+REACTIONS 
+!----------------
+GCMPHEN + GHO           =>  4.2  GYHOC +   0.047  GHNO3 +   14.0  GYNO2P +   14.0  GNO2                   1.96E-12  0.0   -550.
+GCMPHEN + GHO           =>  3.5  GCAT001 +   3.2  GCH3O2 +   0.024  GYNO3P +   0.024  GNO3                  1.96E-12  0.0   -550.
+GCMPHEN + GHO           =>  0.97  GCO +   0.039  GCAT002 +   0.55  GCAT003 +   0.026  GYO3P                   1.96E-12  0.0   -550.
+GCMPHEN + GHO           =>  0.026  GO3 +   2.9  GCO2 +   1.9  GYHO2P +   1.9  GHO2                        1.96E-12  0.0   -550.
+GCMPHEN + GHO           =>  7.5  GCH2O                                                                    4.91E-13  0.0   -550.
+GCMPHEN + GO3           =>  4.5  GYO3C +   8.0  GCH2O +   0.83  GHNO3 +   0.54  GYNO3P                    2.00E-18  0.0    860.
+GCMPHEN + GO3           =>  0.54  GNO3 +   6.7  GCO +   1.7  GCAT001 +   0.085  GCAT003                       2.00E-18  0.0    860.
+GCMPHEN + GO3           =>  14.0  GCO2 +   8.2  GYHO2P +   8.2  GHO2 +   0.51  GH2                        2.00E-18  0.0    860.
+GCMPHEN + GO3           =>  35.0  GYNO2P +   35.0  GNO2 +   5.1  GCH3O2 +   4.0  GYHOP                    2.00E-18  0.0    860.
+GCMPHEN + GO3           =>  8.1  GHO +   0.98  GH2O                                                       1.00E-18  0.0    860.
+GCMPHEN + GNO3          =>  4.2  GYNO3C +   1.2  GYHOP +   1.2  GHO +   0.029  GHNO3                      1.90E-13  0.0      0.
+GCMPHEN + GNO3          =>  15.0  GYNO2P +   15.0  GNO2 +   3.5  GCAT001 +   3.3  GCH3O2                    1.90E-13  0.0      0.
+GCMPHEN + GNO3          =>  0.84  GCO +   0.045  GCAT002 +   0.62  GCAT003 +   0.025  GYO3P                   1.90E-13  0.0      0.
+GCMPHEN + GNO3          =>  0.025  GO3 +   2.8  GCO2 +   1.1  GYHO2P +   1.1  GHO2                        1.90E-13  0.0      0.
+GCMPHEN + GNO3          =>  6.9  GCH2O                                                                    4.76E-14  0.0      0.
+GCAT001 + GHO             =>  4.8  GYHOC +   0.081  GYHOP +   0.081  GHO +   2.0  GCO                       1.50E-13  0.0    165.
+GCAT001 + GHO             =>  0.13  GHNO3 +   5.3  GCO2 +   3.2  GCH2O +   15.0  GYNO2P                     1.50E-13  0.0    165.
+GCAT001 + GHO             =>  15.0  GNO2 +   4.2  GYHO2P +   4.2  GHO2 +   0.83  GCH3O2                     1.50E-13  0.0    165.
+GCAT001 + GHO             =>  0.23  GYNO3P +   0.23  GNO3 +   0.058  GYO3P +   0.058  GO3                   1.50E-13  0.0    165.
+GCAT001 + GHO             =>  0.0071  GH2 +   0.88  GCAT003 +   0.071  GCAT002                                  1.12E-13  0.0    165.
+GCAT001 + GNO3            =>  4.2  GYNO3C +   1.2  GYHOP +   1.2  GHO +   4.4  GHNO3                        4.16E-17  0.0      0.
+GCAT001 + GNO3            =>  3.0  GCO +   5.7  GCO2 +   3.0  GCH2O +   5.4  GYHO2P                         4.16E-17  0.0      0.
+GCAT001 + GNO3            =>  5.4  GHO2 +   15.0  GYNO2P +   15.0  GNO2 +   0.65  GCH3O2                    4.16E-17  0.0      0.
+GCAT001 + GNO3            =>  0.064  GYO3P +   0.064  GO3 +   0.0085  GH2 +   0.45  GCAT003                   4.16E-17  0.0      0.
+GCAT001 + GNO3            =>  0.067  GCAT002                                                                  1.04E-17  0.0      0.
+GCAT001 + HV              =>  1.3  GYHOP +   1.3  GHO +   3.6  GCO +   4.3  GCH2O                           6.83E-02  0.0      0.  
+  HV / 10100   1.000 /
+GCAT001 + HV              =>  5.8  GYHO2P +   5.8  GHO2 +   5.5  GCO2 +   0.18  GHNO3                       6.83E-02  0.0      0.  
+  HV / 10100   1.000 /
+GCAT001 + HV              =>  19.0  GYNO2P +   19.0  GNO2 +   0.058  GYO3P +   0.058  GO3                   6.83E-02  0.0      0.  
+  HV / 10100   1.000 /
+GCAT001 + HV              =>  0.23  GYNO3P +   0.23  GNO3 +   1.9  GCH3O2 +   0.011  GH2                    6.83E-02  0.0      0.  
+  HV / 10100   1.000 /
+GCAT001 + HV              =>  0.069  GCAT002 +   0.69  GCAT003                                                  3.42E-02  0.0      0.  
+  HV / 10100   1.000 /
+GCAT003 + GHO             =>  4.8  GYHOC +   11.0  GYNO2P +   11.0  GNO2 +   2.3  GCH2O                     3.00E-16  0.0  -1825.
+GCAT003 + GHO             =>  4.9  GCO2 +   0.054  GYO3P +   0.054  GO3 +   3.5  GYHO2P                     3.00E-16  0.0  -1825.
+GCAT003 + GHO             =>  3.5  GHO2 +   2.2  GCO +   0.46  GCH3O2 +   0.45  GCAT002                       3.00E-16  0.0  -1825.
+GCAT003 + GHO             =>  1.9  GCAT001 +   0.26  GYNO3P +   0.26  GNO3 +   0.014  GH2                     3.00E-16  0.0  -1825.
+GCAT003 + GHO             =>  0.15  GHNO3 +   0.28  GYHOP +   0.28  GHO                                     2.25E-16  0.0  -1825.
+GCAT003 + GNO3            =>  4.2  GYNO3C +   4.3  GHNO3 +   12.0  GYNO2P +   12.0  GNO2                    3.71E-16  0.0      0.
+GCAT003 + GNO3            =>  0.85  GYHOP +   0.85  GHO +   3.1  GCH2O +   0.22  GCH3O2                     3.71E-16  0.0      0.
+GCAT003 + GNO3            =>  5.7  GCO +   0.054  GYO3P +   0.054  GO3 +   6.4  GCO2                        3.71E-16  0.0      0.
+GCAT003 + GNO3            =>  5.9  GYHO2P +   5.9  GHO2 +   0.66  GCAT001 +   0.23  GCAT002                     3.71E-16  0.0      0.
+GCAT003 + GNO3            =>  0.019  GH2                                                                    9.27E-17  0.0      0.
+GCAT003 + HV              =>  17.0  GYNO2P +   17.0  GNO2 +   6.8  GYHO2P +   6.8  GHO2                     1.10E-02  0.0      0.  
+  HV / 40001   1.000 /
+GCAT003 + HV              =>  1.5  GYHOP +   1.5  GHO +   4.5  GCH2O +   5.2  GCO                           1.10E-02  0.0      0.  
+  HV / 40001   1.000 /
+GCAT003 + HV              =>  6.0  GCO2 +   1.1  GCH3O2 +   0.32  GYNO3P +   0.32  GNO3                     1.10E-02  0.0      0.  
+  HV / 40001   1.000 /
+GCAT003 + HV              =>  2.2  GCAT001 +   0.18  GHNO3 +   0.02  GH2 +   0.063  GYO3P                     1.10E-02  0.0      0.  
+  HV / 40001   1.000 /
+GCAT003 + HV              =>  0.13  GO3 +   0.094  GCAT002                                                    5.51E-03  0.0      0.  
+  HV / 40001   1.000 /
+GCAT002 + GHO             =>  4.8  GYHOC +   15.0  GYNO2P +   15.0  GNO2 +   5.1  GYHO2P                    2.73E-14  0.0   -490.
+GCAT002 + GHO             =>  5.1  GHO2 +   3.0  GCH2O +   7.8  GCO2 +   0.079  GYO3P                       2.73E-14  0.0   -490.
+GCAT002 + GHO             =>  0.079  GO3 +   5.8  GCO +   0.22  GYHOP +   0.22  GHO                         2.73E-14  0.0   -490.
+GCAT002 + GHO             =>  1.4  GCAT003 +   0.92  GYNO3P +   0.92  GNO3 +   0.61  GCAT001                    2.73E-14  0.0   -490.
+GCAT002 + GHO             =>  0.14  GHNO3 +   0.022  GH2 +   0.45  GCH3O2                                   2.05E-14  0.0   -490.
+GCAT002 + GNO3            =>  4.2  GYNO3C +   4.3  GHNO3 +   14.0  GYNO2P +   14.0  GNO2                    1.54E-16  0.0      0.
+GCAT002 + GNO3            =>  4.8  GYHO2P +   4.8  GHO2 +   2.6  GCH2O +   5.3  GCO                         1.54E-16  0.0      0.
+GCAT002 + GNO3            =>  6.9  GCO2 +   0.068  GYO3P +   0.068  GO3 +   1.1  GYHOP                      1.54E-16  0.0      0.
+GCAT002 + GNO3            =>  1.1  GHO +   0.43  GCH3O2 +   0.61  GCAT001 +   1.1  GCAT003                      1.54E-16  0.0      0.
+GCAT002 + GNO3            =>  0.045  GH2                                                                    3.86E-17  0.0      0.
+GCAT002 + HV              =>  19.0  GYNO2P +   19.0  GNO2 +   4.5  GCH2O +   8.7  GYHO2P                    6.29E-03  0.0      0.  
+  HV / 21400   1.000 /
+GCAT002 + HV              =>  8.7  GHO2 +   1.6  GYHOP +   1.6  GHO +   1.0  GYNO3P                         6.29E-03  0.0      0.  
+  HV / 21400   1.000 /
+GCAT002 + HV              =>  1.0  GNO3 +   8.8  GCO +   0.13  GHNO3 +   0.085  GYO3P                       6.29E-03  0.0      0.  
+  HV / 21400   1.000 /
+GCAT002 + HV              =>  0.085  GO3 +   8.5  GCO2 +   0.026  GH2 +   1.1  GCAT001                        6.29E-03  0.0      0.  
+  HV / 21400   1.000 /
+GCAT002 + HV              =>  1.2  GCAT003 +   1.5  GCH3O2                                                    3.14E-03  0.0      0.  
+  HV / 21400   1.000 /
+GCAT001                   =>  18.0  GYNO2P +   18.0  GNO2 +   1.1  GYHOP +   1.1  GHO                       1.81E+13  0.0  13850.
+GCAT001                   =>  0.11  GHNO3 +   3.6  GYHO2P +   3.6  GHO2 +   0.067  GYO3P                    1.81E+13  0.0  13850.
+GCAT001                   =>  0.067  GO3 +   5.7  GCO2 +   2.4  GCO +   0.37  GYNO3P                        1.81E+13  0.0  13850.
+GCAT001                   =>  0.37  GNO3 +   2.5  GCH2O +   0.33  GCH3O2 +   0.15  GCAT003                    1.81E+13  0.0  13850.
+GCAT001                   =>  0.01  GCAT002 +   0.017  GH2                                                    9.03E+12  0.0  13850.
+GCAT001 + GO3             =>  4.0  GYO3C +   8.4  GCH2O +   5.5  GYHOP +   5.5  GHO                         1.67E-23  0.0      0.
+GCAT001 + GO3             =>  6.3  GYNO2P +   6.3  GNO2 +   5.1  GCO2 +   2.4  GYHO2P                       1.67E-23  0.0      0.
+GCAT001 + GO3             =>  2.4  GHO2 +   1.8  GCO +   0.51  GH2 +   0.51  GH2O                           1.67E-23  0.0      0.
+GCAT001 + GO3             =>  0.09  GYNO3P +   0.09  GNO3 +   0.52  GCH3O2 +   0.0042  GHNO3                1.67E-23  0.0      0.
+GCAT003                   =>  15.0  GYNO2P +   15.0  GNO2 +   0.069  GHNO3 +   4.8  GCO2                    4.17E+13  0.0  13850.
+GCAT003                   =>  2.6  GYHO2P +   2.6  GHO2 +   0.056  GYO3P +   0.056  GO3                     4.17E+13  0.0  13850.
+GCAT003                   =>  0.77  GYHOP +   0.77  GHO +   1.1  GCAT001 +   1.7  GCO                         4.17E+13  0.0  13850.
+GCAT003                   =>  0.16  GCAT002 +   1.9  GCH2O +   0.3  GYNO3P +   0.3  GNO3                      4.17E+13  0.0  13850.
+GCAT003                   =>  1.0  GCH3O2                                                                   1.04E+13  0.0  13850.
+GCAT002                   =>  16.0  GYNO2P +   16.0  GNO2 +   0.06  GYO3P +   0.06  GO3                     5.47E+13  0.0  13850.
+GCAT002                   =>  0.56  GYHOP +   0.56  GHO +   3.0  GCO +   0.046  GHNO3                       5.47E+13  0.0  13850.
+GCAT002                   =>  5.7  GCO2 +   2.4  GYHO2P +   2.4  GHO2 +   0.36  GCAT001                       5.47E+13  0.0  13850.
+GCAT002                   =>  0.21  GCAT003 +   0.66  GYNO3P +   0.66  GNO3 +   2.2  GCH2O                    5.47E+13  0.0  13850.
+GCAT002                   =>  1.9  GCH3O2                                                                   1.37E+13  0.0  13850.
+GMALAHY + GO3           =>  3.0  GYO3C +   4.0  GCO2 +   2.3  GYHO2P +   2.3  GHO2                        4.87E-20  0.0      0.
+GMALAHY + GO3           =>  0.021  GYHOP +   0.021  GHO +   0.58  GYNO3P +   0.58  GNO3                   4.87E-20  0.0      0.
+GMALAHY + GO3           =>  2.3  GCO +   0.38  GYNO2P +   0.38  GNO2 +   0.011  GCH2O                     4.87E-20  0.0      0.
+GFURON + GO3            =>  2.5  GYO3C +   2.1  GCO2 +   1.6  GYHO2P +   1.6  GHO2                        2.19E-18  0.0      0.
+GFURON + GO3            =>  0.85  GYHOP +   0.85  GHO +   1.6  GCO +   0.55  GYNO2P                       2.19E-18  0.0      0.
+GFURON + GO3            =>  1.1  GNO2 +   1.2  GCH2O                                                      1.10E-18  0.0      0.
+END

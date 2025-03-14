@@ -1,0 +1,25 @@
+      19  ! number of records (species) in the file
+! data generated using NANNOOLAL SAR
+! 1st line gives the T used to estimate vapor
+! pressure (1st) and evaporation heat (2nd)
+TREF 298.0
+GFURON    7.203E-04    53.2
+GMALAHY   2.339E-06    76.8
+GCMPHEN   8.127E-03    42.6
+GCAT008   4.701E-05    66.9
+GCAT015   3.471E-11   133.8
+GCAT005   9.583E-17   194.9
+GCAT013   1.543E-17   204.0
+GCAT003   1.464E-09   114.2
+GCAT007   3.512E-14   165.2
+GCAT002   1.271E-06    84.0
+GCAT001   3.093E-13   156.6
+GCAT014   2.774E-17   201.0
+GCAT011   4.491E-10   121.0
+GK03000   4.832E-01    29.8
+GCAT006   5.420E-08    99.4
+GCAT012   6.665E-10   118.7
+GCAT004   2.101E-17   202.1
+GCAT010   3.223E-11   131.8
+GCAT009   7.256E-13   151.0
+END

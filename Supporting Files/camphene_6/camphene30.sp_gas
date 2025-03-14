@@ -1,0 +1,64 @@
+SPECIES
+PHASE: START GAS
+GH2              /1./
+GYNOP           /1./
+GYNOC           /1./
+GYNO3P           /1./
+GYNO3C           /1./
+GYHO2P           /1./
+GYHO2C           /1./
+GYO3P            /1./
+GYO3C            /1./
+GYNO2P           /1./
+GYNO2C           /1./
+GYHOP            /1./
+GYHOC            /1./
+GH2O             /1./
+GH2O2            /1./
+GHNO2            /1./
+GHNO3            /1./
+GHNO4            /1./
+GHO              /1./
+GHO2             /1./
+GN2O5            /1./
+GNO              /1./
+GNO2             /1./
+GNO3             /1./
+GO3P             /1./
+GO1D             /1./
+GO2              /1./
+GO3              /1./
+GSO2             /1./
+GMOD             /1./
+GMODO2           /1./
+GMODOOH          /1./
+GXH2O            /1./
+GXH3O            /1./
+GXH3OH           /1./
+GX01001          /1./
+GXH3O2           /1./
+GXH3OOH          /1./
+GXH4             /1./
+GYH2O            /1./
+GYO              /1./
+GFURON           /  84.1/
+GMALAHY          /  98.1/
+GCMPHEN          / 136.3/
+GCAT001          / 223.2/
+GCAT003          / 283.2/
+GCH2O            /  30.0/
+GCH3O            /  31.0/
+GCH3OH           /  32.0/
+GN01001          /  77.0/
+GCH3O2           /  47.0/
+GCH3OOH          /  48.0/
+GN01002          /  93.0/
+GCH4             /  16.1/
+GHCOOH           /  46.0/
+GHCOO2           /  61.0/
+GHCOO2H          /  62.0/
+GP01001          / 107.0/
+GCO              /  28.0/
+GCAT002          / 310.1/
+GCO2             /  44.0/
+PHASE: END GAS
