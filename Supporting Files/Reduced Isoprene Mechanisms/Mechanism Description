@@ -1,0 +1,9 @@
+Three sets of isoprene mechanisms. 
+One with rate constant optimization but no stiffness reduction, 
+one with rate constant optimization and stiffness reduction, 
+one with stiffness reduction but no rate constant optimization.
+
+The numbers correspond to the desired number of species set in the inputs to the algorithm.
+The numbers reported in the paper are lower because the number here includes non-isoprene species 
+which are not counted. The 42 species mechanism corresponds to the 15 species mechanism reported
+in the paper. 135, and 100 here are the 109 and 74 species mechanisms from the paper. 
